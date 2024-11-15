@@ -4,4 +4,4 @@ function allHobbies (hobbyOne, hobbyTwo, hobbyThree) {
     }
 };
 
-module.exports = {allHobbies};
+module.exports = allHobbies;

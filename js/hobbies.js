@@ -3,3 +3,5 @@ function allHobbies (hobbyOne, hobbyTwo, hobbyThree) {
         hobbies: [hobbyOne, hobbyTwo, hobbyThree]
     }
 };
+
+module.exports = {allHobbies};

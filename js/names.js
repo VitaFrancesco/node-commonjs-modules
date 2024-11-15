@@ -4,3 +4,5 @@ function completeName (firstName, lastName) {
         lastName
     }
 };
+
+module.exports = {completeName};
